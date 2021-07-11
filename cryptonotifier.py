@@ -23,8 +23,8 @@ import re
 import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
 
-consumer_key ="U3n43647dtO8wab38g12n5fDa",
-consumer_secret= "2jYMheWwDiYWA4XUwjCyHCJUM7F31716U2HVBpkJOWVe3a2EMF",
+consumer_key ="your api key",
+consumer_secret= "your api secret key",
 
  
 # tweepy library to authenticate our API keys
