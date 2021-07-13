@@ -90,7 +90,7 @@ def get_cryptoprice(coin):
 
 receiver = 'ishanukrishanaf9@gmail.com'
 sender = 'crypto.news.at9@gmail.com'
-sender_pass = 'dailynews'
+sender_pass = '*****password!!!*****'
 
 def send_email(sender, sender_pass , receiver , text_price):
   msg = MM()
